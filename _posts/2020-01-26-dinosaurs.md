@@ -24,6 +24,8 @@ sudo apt install nvidia-driver-<version>
 sudo reboot 
 ```
 >ex. sudo apt install nvidia-driver-430
+
+
 ## 裝CUDA
 基本上按照上面的指令
 https://developer.nvidia.com/cuda-downloads?target_os=Linux
