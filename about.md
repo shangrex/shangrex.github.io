@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 description: This is what I do.
-background: '/img/bg-about.jpg'
+background: '/img/night_star.jpeg'
 ---
 
-# hello there
+A student in National Cheng Kung University
