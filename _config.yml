@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
+title:              Welcome to Shangrex'home
+email:              rexhuang881019@gmail.com
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+author:             Shangrex
+baseurl:            ""
+url:                "https://shangrex.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   rexhuang
+github_username:    shangrex
+facebook_username:  黃上睿
 instagram_username:  
 linkedin_username:
 
