@@ -1,0 +1,7 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+.header-middle{
+    max-width: 350px;
+}
