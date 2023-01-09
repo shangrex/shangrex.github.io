@@ -3,9 +3,9 @@
     justify-content: center;
 }
 .header-middle{
-    max-width: 350px;
+    max-width: 700px;
 }
 .icon {
     display: flex;
-    gap: 35px;
+    gap: 40px;
 }
