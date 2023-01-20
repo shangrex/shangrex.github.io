@@ -5,6 +5,10 @@
 .header-middle{
     max-width: 700px;
 }
+.work-list {
+    display: grid;
+    border-width: 100px;
+}
 .icon {
     display: flex;
     gap: 40px;
