@@ -13,3 +13,9 @@
     display: flex;
     gap: 40px;
 }
+.intro {
+    font-size: 1.5vw;
+    
+    color: black;
+    margin: 2vh 0 0 0;
+}
